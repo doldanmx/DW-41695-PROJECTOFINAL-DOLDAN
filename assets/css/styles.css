@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    
+  }
+
+.logoDocente {
+    border-radius: 90%;
+    -webkit-border-radius: 90%;
+    -moz-border-radius: 90%;
+    -ms-border-radius: 90%;
+    -o-border-radius: 90%;
+    width: 80px;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+/*
+.container-fluid{
+    
+    width: max-content;
+    background-color: #232946;
+    background-size: cover;
+}
+
+
+ 
+/* cambiar el color de fondo a la barra */
+.navbar {
+    background-color:#232946 ;
+}
