@@ -17,17 +17,21 @@
     padding-bottom: 5%;
     
 }
-/*
-.container-fluid{
-    
-    width: max-content;
-    background-color: #232946;
-    background-size: cover;
-}
 
 
  
 /* cambiar el color de fondo a la barra */
 .navbar {
     background-color:#232946 ;
+}
+
+.iconofa {
+    padding-left: 25px ;
+
+}
+
+.footer_2{
+    width: 125px;
+    height:2px;
+
 }
